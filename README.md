@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hussainabid7199
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abid Hussain
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java Script 
+- 💞️ I’m looking to collaborate on Web Develpment
+- 📫 How to reach me hussainabid7199@gmail.com 
 
 <!---
 hussainabid7199/hussainabid7199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
