@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abid Hussain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script 
-- 💞️ I’m looking to collaborate on Web Develpment
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me hussainabid7199@gmail.com 
 
 <!---
