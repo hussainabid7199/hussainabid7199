@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Nodejs C# SQL**
 
-- 👯 I’m looking to collaborate on **Next Js Project**
+- 👯 I’m looking to collaborate on **Next Js, Node Js Project**
 
 - 📫 How to reach me **hussainabid7199@gmail.com**
 
