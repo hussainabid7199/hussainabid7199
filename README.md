@@ -1,17 +1,17 @@
 <img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w" style="width: 100%; height: auto;" alt="banner-image">
 
-<h1 align="center">Hi 👋, I'm Abid Hussain</h1>
-<h3 align="center">Passionate React Js Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abid</h1>
+<h3 align="center">Passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainabid7199&label=Profile%20views&color=0e75b6&style=flat" alt="hussainabid7199" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainabid7199" alt="hussainabid7199" /></a> </p>
 
-- 🔭 I’m currently working on **ERP WEB APP**
+- 🔭 I’m currently working on **ESS ERP System**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Nodejs C# SQL**
 
-- 👯 I’m looking to collaborate on **React Js Project**
+- 👯 I’m looking to collaborate on **Next Js Project**
 
 - 📫 How to reach me **hussainabid7199@gmail.com**
 
