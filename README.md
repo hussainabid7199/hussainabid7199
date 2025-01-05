@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainabid7199" alt="hussainabid7199" /></a> </p>
 
-- 🔭 I’m currently working on **ESS ERP System**
+- 🔭 I’m currently working on **Sarthico v1**
 
-- 🌱 I’m currently learning **Nodejs C# SQL**
+- 🌱 I’m currently learning **.Net**
 
-- 👯 I’m looking to collaborate on **Next Js, Node Js Project**
+- 👯 I’m looking to collaborate on **Next Js, ReactNative, Node Js and .Net**
 
 - 📫 How to reach me **hussainabid7199@gmail.com**
 
