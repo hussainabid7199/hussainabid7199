@@ -17,7 +17,7 @@
 ## 🚀 **About Me**
 
 - 🔭 I’m currently working on **DeepDocSearch** — an AI-powered PDF management and search solution.  
-- 🌱 I’m currently learning **.NET**  
+- 🌱 I’m currently learning **.NET** and **Python**  
 - 👯 I’m looking to collaborate on **Open Source Organizations**  
 - 📫 How to reach me: **hussainabid7199@gmail.com**  
 
