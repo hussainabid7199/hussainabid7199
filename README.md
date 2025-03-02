@@ -16,7 +16,7 @@
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working on **Sarthico v1**  
+- 🔭 I’m currently working on **DeepDocSearch** — an AI-powered PDF management and search solution.  
 - 🌱 I’m currently learning **.NET**  
 - 👯 I’m looking to collaborate on **Open Source Organizations**  
 - 📫 How to reach me: **hussainabid7199@gmail.com**  
@@ -52,6 +52,7 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -86,7 +87,7 @@
   </tr>
 </table>
 
-
+---
 
 ## 📲 **Connect with Me**
 <p>
