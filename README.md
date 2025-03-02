@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussainabid7199&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hussainabid7199&theme=radical&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
