@@ -1,35 +1,77 @@
-<img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w" style="width: 100%; height: auto;" alt="banner-image">
-
-<h1 align="center">Hi 👋, I'm Abid</h1>
-<h3 align="center">Passionate Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainabid7199&label=Profile%20views&color=0e75b6&style=flat" alt="hussainabid7199" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainabid7199" alt="hussainabid7199" /></a> </p>
-
-- 🔭 I’m currently working on **Sarthico v1**
-
-- 🌱 I’m currently learning **.Net**
-
-- 👯 I’m looking to collaborate on **Open Source Organization**
-
-- 📫 How to reach me **hussainabid7199@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abid-hussain-8749a5204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abid-hussain-8749a5204" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w" alt="banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Title -->
+<h1 align="center" style="color: #2E7D32;">Hi 👋, I'm Abid Hussain</h1>
+<h3 align="center" style="color: #555;">Passionate Software Engineer from India</h3>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussainabid7199&label=Profile%20views&color=2E7D32&style=flat" alt="Profile Views" />
+</p>
 
+---
 
+## 🚀 **About Me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainabid7199&show_icons=true&locale=en" alt="hussainabid7199" /></p>
+- 🔭 I’m currently working on **Sarthico v1**  
+- 🌱 I’m currently learning **.NET**  
+- 👯 I’m looking to collaborate on **Open Source Organizations**  
+- 📫 How to reach me: **hussainabid7199@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainabid7199&" alt="hussainabid7199" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainabid7199&show_icons=true&locale=en&layout=compact" alt="hussainabid7199" /></p>
+---
 
+## 🛠️ **Technical Skills**
 
+### 🔥 **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+</p>
 
+### 🎨 **Front-End Development**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+</p>
+
+### ⚙️ **Back-End Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+### 🗃️ **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### 🛠️ **Tools & Technologies**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+---
+
+## 📲 **Connect with Me**
+<p>
+  <a href="https://www.linkedin.com/in/abid-hussain-8749a5204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hussainabid7199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hussainabid7199" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
