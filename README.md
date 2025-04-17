@@ -4,8 +4,8 @@
 </p>
 
 <!-- Title -->
-<h1 align="center" style="color: #2E7D32;">Hi 👋, I'm Abid Hussain</h1>
-<h3 align="center" style="color: #555;">Passionate Software Engineer from India</h3>
+<h1 align="center" style="color: #2E7D32;">Hi 👋, I'm Abid</h1>
+<h3 align="center" style="color: #555;">Passionate Software Engineer</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -16,8 +16,8 @@
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working on **DeepDocSearch** — an AI-powered PDF management and search solution.  
-- 🌱 I’m currently learning **.NET** and **Python**  
+- 🔭 I’m currently working on **Real Time Chat Application** — Tech Stack :- NextJs, NodeJs, Typescript, SQL, Socket.IO, Sequelize ORM.  
+- 🌱 I’m currently learning **Python**  
 - 👯 I’m looking to collaborate on **Open Source Organizations**  
 - 📫 How to reach me: **hussainabid7199@gmail.com**  
 
